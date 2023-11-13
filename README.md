@@ -3,7 +3,7 @@
 
 # Lab | Discrete Probability Distributions
 
-
+Cambio para pull request
 ## Introduction
 
 As a data analyst, you might need to use probability distribution for several reasons:
